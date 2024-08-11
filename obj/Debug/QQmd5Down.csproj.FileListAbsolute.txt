@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.Form1.resources
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QQmd5Down\bin\Debug\QQmd5Down.exe.config
+C:\Users\Administrator\Desktop\QQmd5Down\bin\Debug\QQmd5Down.exe
+C:\Users\Administrator\Desktop\QQmd5Down\bin\Debug\QQmd5Down.pdb
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.exe
+C:\Users\Administrator\Desktop\QQmd5Down\obj\Debug\QQmd5Down.pdb
